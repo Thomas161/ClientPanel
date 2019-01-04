@@ -1,0 +1,6 @@
+{
+  "presets": ["env", "react", "stage-0"]
+  //  stage-0 babe; preset needs to be installed in order to compile using spread operator
+}
+
+
