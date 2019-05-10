@@ -14,11 +14,11 @@ Firebase
 
 ## Avaliable Scripts
 
-npm start
+### npm start
 
 Starts webpack dev server with hot reloading
 
-npm build
+### npm build
 
 builds out project into production ready app
 
