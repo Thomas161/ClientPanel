@@ -4,6 +4,8 @@
 [![NPM](https://nodei.co/npm/redux.png?mini=true)](https://nodei.co/npm/redux/)
 [![NPM](https://nodei.co/npm/firebase.png?mini=true)](https://nodei.co/npm/firebase/)
 
+[![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
+
 # ClientPanel
 
 A full stack application that allows for users to login to a dahboard from where a new user can be created, modified, deleted, and monetary balance to be displayed.
