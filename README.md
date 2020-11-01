@@ -8,11 +8,6 @@
 
 # ClientPanel
 
-A full stack **React/Firebase/redux** application that allows for users to login to a dahboard from where a new user can be created, modified, deleted, and monetary balance to be displayed.
-
-Users can also register themselves from firebase authentication. 
-
-
 ## Avaliable Scripts
 
 ### npm start
